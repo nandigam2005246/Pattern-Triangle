@@ -29,7 +29,7 @@ int main ()
 		for (col=row;col>0;col--)
 		
 		{
-			printf ("1 ");
+			printf ("* ");
 		}
 	
 		printf ("\n");
