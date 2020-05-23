@@ -1,10 +1,10 @@
-/*   
+/*   Multiline Commenting
 
         *
        * *
       * * *
      * * * *
-	* * * * *    */
+    * * * * *    */
 #include<stdio.h>
 int main ()
 {
